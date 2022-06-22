@@ -82,3 +82,34 @@ button {
     margin: 0 200px;
 }
 
+.above {
+    font-size: 36px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.below-boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.box1, .box2, .box3, .box4 {
+    background-color: white;
+    border: solid 5px #3882F6;
+    margin: 0 30px;   
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+}
+
+.below-text {
+    display: flex;
+    justify-content: center;
+}
+.one, .two, .three, .four {
+    display:flex;
+    flex-wrap: wrap;
+    width: 200px;
+    margin: 10px 30px;
+}
