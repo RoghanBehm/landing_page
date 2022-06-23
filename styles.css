@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif, Helvetica;
     margin: 0;
 }
 
@@ -176,7 +176,7 @@ button {
     font-style: italic;
     font-weight: light;
     color: #1F2937;
-    width: 800px;
+    width: 1150px;
 
     /*/padding-top: 30px;*/
 }
